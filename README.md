@@ -1,2 +1,1 @@
-# UnicomStudentManagementSystem
-System
+# UnicomTICManagementSystem
